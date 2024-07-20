@@ -1,4 +1,4 @@
-# Githired Real-Estate Web-App
+# Githired job searching platform
 
 ## **Description**
 
